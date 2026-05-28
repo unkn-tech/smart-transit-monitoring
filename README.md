@@ -1,4 +1,4 @@
-# 🚌 SmartTransit — Smart Transit Monitoring System for Bengaluru Bus Routes
+<img width="1920" height="1080" alt="Screenshot 2026-05-28 191413" src="https://github.com/user-attachments/assets/7ed3b7e7-a1e1-4dfb-afe2-ba6c279660b6" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5ac93ae-160c-4b97-8031-8a52753d2772" /># 🚌 SmartTransit — Smart Transit Monitoring System for Bengaluru Bus Routes
 
 > An intelligent real-time public transportation monitoring system designed to improve the daily commute experience across Bengaluru bus routes.
 
@@ -170,16 +170,13 @@ http://localhost:5173
 # 📸 Screenshots
 
 ## 🏠 Dashboard View
-
-(Add Screenshot Here)
-
-## 🗺️ Live Map View
-
-(Add Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot 2026-05-28 191329" src="https://github.com/user-attachments/assets/75b598de-98ae-445e-86d5-fd3d6bee10cd" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-28 191336" src="https://github.com/user-attachments/assets/c692a984-b815-460e-af25-4cbd1d67b2a3" />
 
 ## 📊 Analytics Dashboard
+<img width="1920" height="1080" alt="Screenshot 2026-05-28 191413" src="https://github.com/user-attachments/assets/f93d5903-6ec7-43bd-a214-a3a593afc4c4" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-28 191419" src="https://github.com/user-attachments/assets/ef248e5b-31bc-444a-9428-8846ed6132f1" />
 
-(Add Screenshot Here)
 
 ---
 
