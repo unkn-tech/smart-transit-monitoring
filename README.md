@@ -171,11 +171,11 @@ http://localhost:5173
 
 ## 🏠 Dashboard View
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/75b598de-98ae-445e-86d5-fd3d6bee10cd" width="600"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/c692a984-b815-460e-af25-4cbd1d67b2a3" width="600"/>
 </p>
 
@@ -183,11 +183,11 @@ http://localhost:5173
 
 ## 📊 Analytics Dashboard
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/f93d5903-6ec7-43bd-a214-a3a593afc4c4" width="600"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/0d5a9fd1-1848-485f-a5e6-839d4b53950b" width="600"/>
 </p>
 
